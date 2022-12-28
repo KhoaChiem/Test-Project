@@ -1,0 +1,10 @@
+khoa\jquery\interfaces\HomePageUI.class
+khoa\nopcommerce\interfaces\HomePageUI.class
+khoa\jquery\commons\BaseTest$Browser.class
+khoa\nopcommerce\interfaces\RegisterPageUI.class
+khoa\nopcommerce\interfaces\LoginPageUI.class
+Selenium\api\JavaScript_Executor.class
+khoa\jquery\commons\BaseTest$1.class
+khoa\nopcommerce\interfaces\BasePageUI.class
+khoa\jquery\commons\BaseTest.class
+khoa\nopcommerce\interfaces\CustomerInforPageUI.class
